@@ -1,5 +1,5 @@
 // RACCOLGO LE INFORMAZIONI 
-// Cchiedo il nome
+// Chiedo il nome
 const userName = prompt("Ciao, qual'è il tuo nome?");
 // Chiedo il cognome 
 const userLastName = prompt('Il tuo cognome?');
